@@ -4,6 +4,7 @@ import java.util.*;
 
 public class stack1 {
 	public static void main(String [] args) {
+        //Creating the stack
 		Stack<Integer> stack = new Stack<>();
 		
 		// Insert the values to the Stack
